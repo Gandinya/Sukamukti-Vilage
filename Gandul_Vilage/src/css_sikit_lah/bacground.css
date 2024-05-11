@@ -1,0 +1,22 @@
+body{
+    background-image:url("/img/gunung.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    opacity: 0,1%;
+}
+#aduhai {
+    max-height: 450px;
+    max-width: 100;
+    height: 450px;
+    width: 400px;
+}
+button{
+    width: 100px;
+}
+button:hover{
+    transform: rotate(360deg);
+    transition: 1s;
+}
+
